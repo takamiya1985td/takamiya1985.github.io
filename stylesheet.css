@@ -17,3 +17,35 @@
 .main-left button:hover{
   opacity:1;
 }
+.main{
+  display:flex;
+}
+.main-right{
+  width:1100px;
+  background-color:#f5f5f5;
+}
+.main-right h2{
+  background-color:#b0e0e6;
+  width:1100px;
+  color:white;
+  font-weight:normal;
+  
+
+}
+.subt{
+  font-weight:normal;
+  margin:0;
+  font-size:small
+  font-family:"Verdana";
+  color:white;
+  background-color:#87cefa;
+  width:160px;
+  padding-left:10px;
+}
+.contents{
+  background-color: white;
+  margin:20px 70px;
+}
+.contents h3{
+  margin-top:30px;
+}
